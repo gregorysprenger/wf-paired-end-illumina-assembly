@@ -1,3 +1,10 @@
+> [!WARNING]
+> This repository has moved to https://github.com/bacterial-genomics/wf-paired-end-illumina-assembly
+
+<br />
+<br />
+<br />
+
 # ![wf-paired-end-illumina-assembly](docs/images/wf-paired-end-illumina-assembly_logo_light.png#gh-light-mode-only) ![wf-paired-end-illumina-assembly](docs/images/wf-paired-end-illumina-assembly_logo_dark.png#gh-dark-mode-only)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/gregorysprenger/wf-paired-end-illumina-assembly)
@@ -19,7 +26,7 @@ _General schematic of the steps in the workflow_
   - [Required parameters](#required-parameters)
   - [Optional parameters](#optional-parameters)
   - [Additonal parameters](#additional-parameters)
-- [Resource Managers](#resource-Managers)
+- [Resource Managers](#resource-managers)
 - [Output](#output)
 - [Troubleshooting](#troubleshooting)
 - [Contributions and Support](#contributions-and-support)
